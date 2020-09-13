@@ -25,13 +25,14 @@ function Bio() {
               alt={author}
               style={{
                 marginRight: rhythm(1 / 2),
-                marginBottom: '25',
+                
                 minWidth: 50,
                 borderRadius: `100%`,
 
               }}
               imgStyle={{
                 borderRadius: `50%`,
+                marginBottom: '25',
               }}
             />
           </Container>
