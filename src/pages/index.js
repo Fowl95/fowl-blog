@@ -18,6 +18,7 @@ class Blog extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
+        padding-bottom: 25px;
         <SearchPosts
           posts={posts}
           localSearchBlog={localSearchBlog}
