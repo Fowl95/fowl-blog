@@ -33,14 +33,7 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            //<p>
-            //A blog about writing and learning. 
-              //{` `}
-              //<a href={`https://twitter.com/${social.twitter}`}>
-               // Follow me on Instagram
-              //</a>
-            //</p>
-          </Container>
+           </Container>
         )
       }}
     />
