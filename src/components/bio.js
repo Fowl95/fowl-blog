@@ -39,7 +39,6 @@ function Bio() {
               Written by <strong>Fowl</strong>
               {` `}
               A blog about writing and learning. 
-              </a>
             </p>
           </Container>
         )
