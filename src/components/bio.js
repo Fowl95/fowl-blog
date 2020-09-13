@@ -28,14 +28,21 @@ function Bio() {
                 marginBottom: 0,
                 minWidth: 50,
                 borderRadius: `100%`,
-                padding-bottom: 25px;
-
+                padding-bottom: 25px,
               }}
               imgStyle={{
                 borderRadius: `50%`,
               }}
             />
-           </Container>
+            <p>
+              Written by <strong>{author}</strong>, a framework built upon the
+              React library.
+              {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>
+                Follow me on Twitter
+              </a>
+            </p>
+          </Container>
         )
       }}
     />
