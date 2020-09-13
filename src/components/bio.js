@@ -35,6 +35,12 @@ function Bio() {
                 paddingBottom: '25px',
               }}
             />
+            <p>
+              Written by <strong>Fowl</strong>
+              {` `}
+              A blog about writing and learning. 
+              </a>
+            </p>
           </Container>
         )
       }}
