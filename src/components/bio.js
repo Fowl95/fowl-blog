@@ -28,7 +28,7 @@ function Bio() {
                 marginBottom: 0,
                 minWidth: 50,
                 borderRadius: `100%`,
-                padding-bottom: 25px,
+                paddingBottom: 25px,
               }}
               imgStyle={{
                 borderRadius: `50%`,
