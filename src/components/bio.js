@@ -32,7 +32,6 @@ function Bio() {
               }}
               imgStyle={{
                 borderRadius: `50%`,
-                marginBottom: '25',
               }}
             />
           </Container>
