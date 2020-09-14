@@ -3,7 +3,10 @@ date: 2020-09-14T08:15:49.944Z
 “draft”: true
 path: /
 title: "The Answer Field is Useless & Epistemological Clozes "
-description: "Yes. "
+description: I've to thank Naess for all the insightful discussion on this
+  topic. I'll be basically reporting my own thoughts on what he explained to me
+  about this topic. It had me think for multiple days about it and I felt the
+  need to put it down for others to read.
 ---
 > The answer field is **useless**. 
 
