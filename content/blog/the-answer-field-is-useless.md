@@ -2,7 +2,7 @@
 date: 2020-09-14T08:15:49.944Z
 “draft”: true
 path: /
-title: The Answer Field is Useless
+title: "The Answer Field is Useless & Epistemological Clozes "
 description: "Yes. "
 ---
 > The answer field is **useless**. 
@@ -127,3 +127,7 @@ This is why you cannot use epistemological clozes for premade decks or you can't
 They are hard to create because you have to explore a lot. You can't just read your textbook and demand to be creating epistemological clozes on the go. 
 
 So, they do have fuzzy details like **semantic clozes**, but the details you put in an epistemological cloze are those that *you* chose to have there. There is not anything left to chance. You built your own understanding and you're now choosing to have a lantern that can be bigger or smaller based on the need.
+
+
+
+*I'm still currently editing and re-writing some parts. I was eager to publish my first real post, so pardon me for the lack of good formatting and coherence.*
