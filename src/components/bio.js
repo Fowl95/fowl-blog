@@ -38,8 +38,7 @@ function Bio() {
             <p>
               Written by <strong>Fowl</strong>.
               {` `}
-               </p>
-               <p> 
+               
                A blog about writing and learning.
                </p>
           </Container>
