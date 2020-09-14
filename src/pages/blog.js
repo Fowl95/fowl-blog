@@ -38,7 +38,7 @@ export const pageQuery = graphql`
     }
 
     localSearchBlog {
-      
+      index
       store
     }
 
