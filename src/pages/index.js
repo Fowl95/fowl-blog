@@ -17,10 +17,11 @@ class Blog extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
-        <Bio  />
-        
-
-        
+        <Bio />
+        <SearchPosts
+          posts={posts}
+          
+        />        
         <Link to="/">
           <Button marginTop="85px">Go Home</Button>
         </Link>
