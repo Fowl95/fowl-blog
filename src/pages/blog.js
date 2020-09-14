@@ -18,12 +18,7 @@ class Blog extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
-        <SearchPosts
-          posts={posts}
-          localSearchBlog={localSearchBlog}
-          navigate={navigate}
-          location={location}
-        />
+        
         <Link to="/">
           <Button marginTop="85px">Go Home</Button>
         </Link>
@@ -43,7 +38,7 @@ export const pageQuery = graphql`
     }
     
 
-    
+
     allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
