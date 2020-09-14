@@ -36,7 +36,11 @@ export const pageQuery = graphql`
         title
       }
     }
-    
+
+    localSearchBlog {
+      
+      store
+    }
 
 
     allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
