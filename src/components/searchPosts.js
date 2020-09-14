@@ -104,7 +104,14 @@ const AllPosts = ({ posts }) => (
 )
 
 const SearchPosts = ({ posts, localSearchBlog, location, navigate }) => {
-  
+  const { search } = queryString.parse(location.search)
+  const [query, setQuery] = useState(search || "")
+
+  const results = useFlexSearch(
+    query,
+    localSearchBlog.index,
+    JSON.parse(localSearchBlog.store)
+  )
 
   return (
     <>

@@ -20,7 +20,8 @@ class Blog extends React.Component {
         <Bio />
         <SearchPosts
           posts={posts}
-          
+          navigate={navigate}
+          location={location}
         />        
         <Link to="/">
           <Button marginTop="85px">Go Home</Button>
