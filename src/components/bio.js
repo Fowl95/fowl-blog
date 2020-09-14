@@ -36,10 +36,12 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>Fowl</strong>
+              Written by <strong>Fowl</strong>.
               {` `}
-              A blog about writing and learning. 
-            </p>
+               </p>
+               <p> 
+               A blog about writing and learning.
+               </p>
           </Container>
         )
       }}
