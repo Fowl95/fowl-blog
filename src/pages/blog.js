@@ -41,10 +41,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    localSearchBlog {
-      index
-      store
-    }
+    
+
+    
     allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
