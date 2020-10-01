@@ -115,7 +115,7 @@ That was 2011 and before 2016 I never managed to have someone cry over something
 
 Today, I reckon that many people can have a stroke of luck. I've my own theories about writing and how every work is detached from its authors, having its own will. That was a stark example, but it showed me something I could pursue and what I really wanted to achieve. In that moment, for 30 minutes, I was unknowingly part of the greats, of those who I one day want to overcome with my own pen - keyboard, really. It's hard to believe you can be something if you never touched it with your hands, but it can be equally frustrating to create a miracle and never be able to reproduce it.
 
-\#2
+# \#2
 
 Now it's around 2009-2010. It was summer of my first year of high school.
 
