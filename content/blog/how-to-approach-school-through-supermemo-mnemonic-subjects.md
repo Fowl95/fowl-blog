@@ -41,7 +41,7 @@ That's it.
 
 Anki has some collaborative functions which, however, are still not great and perfected. The majority of decks are created by small groups of people, if not individuals.
 
-Quote: If you're studying for exams, speed and efficiency is the only thing you're after.
+> If you're studying for exams, speed and efficiency is the only thing you're after.
 
 Why?
 
@@ -67,7 +67,7 @@ Maybe, if I weren't so busy with multiple projects, I'd be able to do it. Who kn
 
 ## How do you slay a huge fucking dragon?
 
-Medical schools are notorious (probably Gold Olympic Medal) for asking you to learn far more than is humanely possible. Hopefully, SuperMemo will help you ***measure your progress and rationalize the process***. - Supermemopedia
+> Medical schools are notorious (probably Gold Olympic Medal) for asking you to learn far more than is humanely possible. Hopefully, SuperMemo will help you ***measure your progress and rationalize the process***. - Supermemopedia
 
 **Answer: form a big fucking party.**
 
@@ -82,7 +82,6 @@ Why am I talking about this exam now?
 Multiple reasons:
 
 1. It's the hardest exam I know of, memory wise.
-
 2. We're going to run two cohorts of people on the Anatomy 2 exam with SuperMemo and without, just slightly below the 1 when it comes to memory power requested.
 
 Long story short: I asked to write a thesis, and consequent research paper, on med students using SuperMemo. I'm fed up with medicine and I'd really love to give something back to these poor souls.
@@ -105,7 +104,7 @@ Anki people are doing good in exams because they have the premade decks. Anki is
 
 It's also *faster*. Quality is important, obviously, but in the exam game being fast and able at prioritizing means the world.
 
-Quote: In terms of perception on speed of learning, it can sometimes feel like you are stuck in the mud doing repetitions, but that is only because you are working to hold back a tidal wave of forgetting! Your classmates who aren't doing repetitions simply allow the forgetting to occur, giving them a feeling of (ignorant) bliss. Therefore, in the long term you will have acquired many times more knowledge because of this extra work to actually retain it in memory. If any of the knowledge you are taught is actually useful (i.e. needs to be used in practice, or needs to be used to understand other areas of study) you will have it available in your mental toolbox while they will have to burden their short term memory by relearning it, slowing down their learning of more advanced concepts. Therefore, the increase in speed of learning comes from two main factors: 1) over any period of time you will retain more of the progress you make, whereas they will regularly take 4 steps forward and 3 steps back, and 2) whenever learning more advanced concepts, you will be able to learn quickly and smoothly without needing to "refresh" (aka "relearn") the basics. This second point is very important as it can be the difference between trying to hold many things in mind (i.e. the basics and the advanced) or few (just the advanced, because you already know the basics); the latter not only feels easier but frees up working memory to take more things into consideration. - Supermemopedia on Speed of Learning
+> In terms of perception on speed of learning, it can sometimes feel like you are stuck in the mud doing repetitions, but that is only because you are working to hold back a tidal wave of forgetting! Your classmates who aren't doing repetitions simply allow the forgetting to occur, giving them a feeling of (ignorant) bliss. Therefore, in the long term you will have acquired many times more knowledge because of this extra work to actually retain it in memory. If any of the knowledge you are taught is actually useful (i.e. needs to be used in practice, or needs to be used to understand other areas of study) you will have it available in your mental toolbox while they will have to burden their short term memory by relearning it, slowing down their learning of more advanced concepts. Therefore, the increase in speed of learning comes from two main factors: 1) over any period of time you will retain more of the progress you make, whereas they will regularly take 4 steps forward and 3 steps back, and 2) whenever learning more advanced concepts, you will be able to learn quickly and smoothly without needing to "refresh" (aka "relearn") the basics. This second point is very important as it can be the difference between trying to hold many things in mind (i.e. the basics and the advanced) or few (just the advanced, because you already know the basics); the latter not only feels easier but frees up working memory to take more things into consideration. - Supermemopedia on Speed of Learning
 
 SuperMemo, is inherently faster for long term memories. However, it's not faster for short term cramming. It's not that effective, sadly. To clarify, I still think that you can cram with SuperMemo, but it's still less effective if done by yourself.
 
@@ -137,15 +136,10 @@ I thought about talking of my personal strategies for individual study, but I fe
 
 If you want to be taught on that, again, hit me up in my email and we can talk about strategies you can use as an asocial individual who does not want to collaborate with other people. I'm not sure whether or not I'll talk about what to do by yourself for different reasons:
 
-1) it's not really a behavior I want to encourage in people
-
-2) if you don't want to collaborate with others, you'll have to pay for it in life. Better to do it now than later, huh? *25.*
-
-3) Life is not a race against each other. (See 1)
-
-4) I do whatever the fuck I want on my blog.
-
-
+1. it's not really a behavior I want to encourage in people
+2. if you don't want to collaborate with others, you'll have to pay for it in life. Better to do it now than later, huh? *25.*
+3. Life is not a race against each other. (See 1)
+4. I do whatever the fuck I want on my blog.
 
 *I also tutor people privately in SuperMemo for 25 Euro/h. If you feel like you want to draw up a specific strategy for your exams, hit me up!*
 
