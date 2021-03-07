@@ -28,4 +28,14 @@ I am not in any mood to drag this metaphor further than this. You should be able
 
 During our school years, we are told to optimize our time, to follow the homework relentlessly or we will be punished - please do not take this as endorsement for the *school is slavery* movement, I do not agree with them nor do I want to express my support for them. What I am saying is that there is a large margin to improve the schooling experience, not that I want to destroy the system. 
 
-Back on track. School is the first place where we tried to optimize our life, judging our progression and failings with marks.
+Back on track. School is the first place where we tried to optimize our life, judging our progression and failings with marks. Fun fact: school is not optimized. School is the most inefficient system after your small town's political scene. 
+
+## Worship a Product
+
+We are subtly told that grades are who we are, that the metrics are the end, the product we ought to relentlessly pursue. 
+
+Well, there are metrics that are really important in life. No one should mistake my article as a "aha! I will beat the system by committing to sloth." The problem is that we are mostly faced with vanity metrics in school. 
+
+Sleep, depth of exploration, enjoyment while solving a problem. There are things we should bait into our lives and they *should* be our aim. For an aimless life is worse than spending your entire existence in high school. 
+
+The product approach steers us towards *rate of* *completion*, *grades.*
