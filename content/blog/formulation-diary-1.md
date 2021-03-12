@@ -1,6 +1,6 @@
 ---
 path: formulation-diary-1
-date: 2021-03-08T19:37:50.254Z
+date: 2021-03-12T19:37:50.254Z
 title: "Formulation Diary #1"
 description: My collection has gone through **A LOT** of shit. There has never
   been a problem in consuming new material, but mostly repping the items. As I
