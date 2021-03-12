@@ -149,6 +149,6 @@ We need another one now to nail down the concept.
 
 *If you like my posts, keep yourself updated with the random shit I do.* 
 
-*Subscribe to my mailing list.* 
+[*Subscribe to my mailing list.* ](http://eepurl.com/hs0y7b)
 
-http://eepurl.com/hs0y7b
+[](http://eepurl.com/hs0y7b)
